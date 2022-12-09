@@ -6,7 +6,7 @@
 
 
 
-#### This web page is hosted [here!](https://loretta-dhahabu.github.io/To-Do-App/)
+#### This web page is hosted [here!](https://Chizoba8.github.io/To-Do-App/)
 
 
 ### *Features*:
@@ -55,5 +55,4 @@
 
 # *Author*
 
-* Loretta Dhahabu Jefwa (loretta-dhahabu, loreydjefwa@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/loretta-jefwa-b17b401b9/)
+* Imoh Chizoba (chizoba94@gmail.com)
